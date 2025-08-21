@@ -1,4 +1,4 @@
-# rayzen-afk.github.io
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
